@@ -1,3 +1,3 @@
 # githubTest
 
-# Hi, zhao li, Github Desktop!
+# Hi, zhao li, Github terminal!
